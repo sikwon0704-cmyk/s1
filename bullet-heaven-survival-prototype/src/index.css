@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure canvas takes full space */
+canvas {
+  display: block;
+}
